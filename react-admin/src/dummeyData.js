@@ -37,3 +37,37 @@ export const userData = [
       "Active User": 1000
     }
   ];
+
+
+
+  export const userRows = [
+    {
+      id: 1,
+      username: "Jon Snow",
+      avatar: "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?cs=srgb&dl=pexels-pixabay-220453.jpg&fm=jpg",
+      email: "jon@gmail.com",
+      status: "active",
+      transaction: "$120.00"
+    }, {
+      id: 2,
+      username: "Jon Snow",
+      avatar: "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?cs=srgb&dl=pexels-pixabay-220453.jpg&fm=jpg",
+      email: "jon@gmail.com",
+      status: "active",
+      transaction: "$120.00"
+    }, {
+      id: 3,
+      username: "Jon Snow",
+      avatar: "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?cs=srgb&dl=pexels-pixabay-220453.jpg&fm=jpg",
+      email: "jon@gmail.com",
+      status: "active",
+      transaction: "$120.00"
+    }, {
+      id: 4,
+      username: "Jon Snow",
+      avatar: "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?cs=srgb&dl=pexels-pixabay-220453.jpg&fm=jpg",
+      email: "jon@gmail.com",
+      status: "active",
+      transaction: "$120.00"
+    }
+  ];
