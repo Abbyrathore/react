@@ -39,6 +39,20 @@ export const userData = [
   ];
 
 
+  export const productData = [
+    {
+      name: "Jan",
+      "Sales": 4000
+    }, {
+      name: "Feb",
+      "Sales": 5000
+    }, {
+      name: "Mar",
+      "Sales": 3000
+    }
+  ];
+
+
 
   export const userRows = [
     {
@@ -69,5 +83,38 @@ export const userData = [
       email: "jon@gmail.com",
       status: "active",
       transaction: "$120.00"
+    }
+  ];
+
+
+  export const productRows = [
+    {
+      id: 1,
+      name: "Apple Airpods",
+      img: "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?cs=srgb&dl=pexels-pixabay-220453.jpg&fm=jpg",
+      stock: 123,
+      status: "active",
+      price: "$120.00"
+    }, {
+      id: 2,
+      name: "Apple Airpods",
+      img: "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?cs=srgb&dl=pexels-pixabay-220453.jpg&fm=jpg",
+      stock: 123,
+      status: "active",
+      price: "$120.00"
+    }, {
+      id: 3,
+      name: "Apple Airpods",
+      img: "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?cs=srgb&dl=pexels-pixabay-220453.jpg&fm=jpg",
+      stock: 123,
+      status: "active",
+      price: "$120.00"
+    }, {
+      id: 4,
+      name: "Apple Airpods",
+      img: "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?cs=srgb&dl=pexels-pixabay-220453.jpg&fm=jpg",
+      stock: 123,
+      status: "active",
+      price: "$120.00"
     }
   ];
